@@ -1,6 +1,10 @@
 # wakeupeverymin
 wake up every min for LPC810
 
+## binary
+obj.hex/obj.bin
+obj-10sec.hex/obj-10sec.bin 10sec for test
+
 ## pin
          -| o |-
          -|   |GND
