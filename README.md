@@ -2,10 +2,10 @@
 wake up every min for LPC810
 
 ## pin
-|     -| o |-|
-|     -|   |GND|
-|     -|   |VDD|
-|WAKEUP|   |-|
+         -| o |-
+         -|   |GND
+         -|   |VDD
+    WAKEUP|   |-
 
 ## WAKEUP
 become GND 100msec every 60 sec
