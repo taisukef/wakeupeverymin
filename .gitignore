@@ -1,4 +1,5 @@
 # Object files
+*.d
 *.o
 *.ko
 *.obj
@@ -27,6 +28,7 @@
 *.i*86
 *.x86_64
 #*.hex
+*.axf
 
 # Debug files
 *.dSYM/
